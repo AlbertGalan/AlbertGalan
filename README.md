@@ -3,7 +3,7 @@
 Desarrollador de Aplicaciones Multiplataforma (DAM) especializado en **Desarrollo de Videojuegos**. Soy una persona **trabajadora, responsable, proactiva y con gran capacidad de aprendizaje**
 
 - 🎓 Graduado en **DAM** y en un **Curso de Especialización en Desarrollo de Videojuegos**.
-- 💻 Experiencia previa trabajando con **Angular, Docker, microservicios, bases de datos SQL** y análisis de datos con **Power BI**.
+- 💻 Experiencia previa trabajando con **Angular, Docker, microservicios, bases de datos SQL**.
 - 🎮 Apasionado por el desarrollo de videojuegos y aplicaciones multiplataforma.
 - 📬 Contacto: [treblagc32@gmail.com](mailto:treblagc32@gmail.com)
 
